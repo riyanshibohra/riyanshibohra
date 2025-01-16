@@ -1,11 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hello!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+You are visitor number:  
+<img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
+
 # Hi, I'm Riyanshi Bohra! 👋
 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
-
-Welcome to my GitHub Profile! You are visitor number:  
-
-<img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
