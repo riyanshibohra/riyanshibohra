@@ -9,8 +9,6 @@ Someone who is mapping the world through data and finding patterns where others 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let%27s%20Explore!&height=80&fontAlign=50&fontSize=25)
-
 ## 🌟 About Me
 ```python
 class DataScientist:
@@ -30,20 +28,21 @@ def hello_world():
     print("Hello, GitHub!")
 ```
 
-## 💡 Who Am I?
-```json
-{
-  "name": "Riyanshi Bohra",
-  "passions": ["Data Science", "Storytelling", "AI for Good"],
-  "skills": ["Python", "ML Models", "Data Visualization"],
-  "goals": "To uncover insights from data and share impactful stories."
-}
-```
-## 🛠 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/-R-000?style=flat-square&logo=r)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code)
+## 🛠️ Languages & Tools  
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black)  
+
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
