@@ -4,6 +4,8 @@ You are visitor: ![Visitor Count](https://profile-counter.glitch.me/riyanshibohr
 ## 👩‍💻 About Me
 Hi, I'm [Riyanshi Bohra](https://riyanshibohra.github.io/Riyanshi-Bohra/), a data science enthusiast with a passion for storytelling with data! 🌟
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hello!+Welcome+to+my+GitHub!;Data+Science+is+Fun!)](https://git.io/typing-svg)
+
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
