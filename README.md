@@ -32,16 +32,16 @@ def hello_world():
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" />
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi" />
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" width="120" height="30" />
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" width="120" height="30" />
+<img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" width="120" height="30" />
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="120" height="30" />
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" width="120" height="30" />
+<img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi" width="120" height="30" />
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" width="120" height="30" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" width="120" height="30" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" width="120" height="30" />
+<img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" width="120" height="30" />
 
 </div>
 
