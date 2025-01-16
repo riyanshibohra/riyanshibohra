@@ -28,9 +28,22 @@ print(me.introduce())
 def hello_world():
     print("Hello, GitHub!")
 ```
+
+## 💡 Who Am I?
+```json
+{
+  "name": "Riyanshi Bohra",
+  "passions": ["Data Science", "Storytelling", "AI for Good"],
+  "skills": ["Python", "ML Models", "Data Visualization"],
+  "goals": "To uncover insights from data and share impactful stories."
+}
+```
+## 🛠 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
+![R](https://img.shields.io/badge/-R-000?style=flat-square&logo=r)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat-square&logo=visual-studio-code)
+
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
 </div>
-
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
