@@ -9,6 +9,7 @@ Someone who is mapping the world through data and finding patterns where others 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
 
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let%27s%20Explore!&height=80&fontAlign=50&fontSize=25)
 
 ## 🌟 About Me
 ```python
