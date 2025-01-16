@@ -45,4 +45,33 @@ me = DataScientist()
 
 </div>
 
+## 🌟 Featured Projects  
+### 1. [Portfolio+](https://github.com/Portfolio-Simulation/PortfolioPlus)  
+**Virtual Stock Portfolio Management System**  
+- Built a Flask-MySQL backend to process 2M+ daily stock updates.  
+- Analyzed buy/sell activities, enabling real-time performance tracking.  
+
+### 2. [Biometric Predictors of Emotional States](https://github.com/riyanshibohra/Biometric-Predictors-of-Emotional-States)  
+**A Deep Learning Approach to Emotional Intelligence**  
+- Applied GPT-2 and BERT to create a database of 50,000+ labeled mood descriptions.  
+- Achieved 93% accuracy using RNN-based classification models.  
+
+### 3. [Metropolitan Climate Profiling](https://github.com/riyanshibohra/metropolitan-climate-profiling)  
+**Urban Heat Island Analysis**  
+- Analyzed 300,000+ climatic data points to identify microclimatic hotspots.  
+- Designed Tableau dashboards for urban planners to visualize disparities.  
+
+---
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let%27s%20Explore!&height=80&fontAlign=50&fontSize=25)
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+```
+
+
 
