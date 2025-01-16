@@ -64,13 +64,6 @@ me = DataScientist()
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let%27s%20Explore!&height=80&fontAlign=50&fontSize=25)
 
-
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-```
-
 
 
