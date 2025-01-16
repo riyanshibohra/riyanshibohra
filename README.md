@@ -29,7 +29,7 @@ def hello_world():
 ```
 
 ## 🛠️ Languages & Tools  
-<div align="center">
+<div>
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
