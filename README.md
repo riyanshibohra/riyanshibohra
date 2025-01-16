@@ -1,7 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hello!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 # Hi, I'm Riyanshi Bohra! 👋
+Someone who is mapping the world through data and finding patterns where others find noise. 🌟
+
 Welcome to my GitHub Profile! You are visitor number:  
+
 <img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
 
 <div align="center">
@@ -25,8 +28,6 @@ class DataScientist:
         
 me = DataScientist()
 print(me.introduce())
-
-You are visitor: ![Visitor Count](https://profile-counter.glitch.me/riyanshibohra/count.svg)
 ```
 ## 👩‍💻 About Me
 Hi, I'm [Riyanshi Bohra](https://riyanshibohra.github.io/Riyanshi-Bohra/), someone who is mapping the world through data and finding patterns where others find noise. 🌟
