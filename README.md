@@ -29,20 +29,22 @@ def hello_world():
 ```
 
 ## 🛠️ Languages & Tools  
-<div>
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)  
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black)  
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" />
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi" />
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" />
 
 </div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
