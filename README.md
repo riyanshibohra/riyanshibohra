@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hello!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
 
 
 <div align="center">
@@ -10,10 +10,10 @@ You are visitor number:
 
 <img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
 
-# Hi, I'm Riyanshi Bohra! 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg)
+
 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
 
 ## 💻 A Little About Me (in Code)
 ```python
