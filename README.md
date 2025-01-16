@@ -3,7 +3,7 @@
 You are visitor: ![Visitor Count](https://profile-counter.glitch.me/riyanshibohra/count.svg)
 
 ## 👩‍💻 About Me
-Hi, I'm [Riyanshi Bohra](https://riyanshibohra.github.io/Riyanshi-Bohra/),someone who is mapping the world through data and finding patterns where others find noise. 🌟
+Hi, I'm [Riyanshi Bohra](https://riyanshibohra.github.io/Riyanshi-Bohra/), someone who is mapping the world through data and finding patterns where others find noise. 🌟
 
 
 ## 🛠 Skills & Tools
