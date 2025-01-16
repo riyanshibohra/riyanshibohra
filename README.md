@@ -7,13 +7,8 @@ You are visitor number:
 # Hi, I'm Riyanshi Bohra! 👋
 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
 
-<div align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Aspiring+Data+Scientist+%F0%9F%92%AB;Storyteller+with+Data+%F0%9F%93%88;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG">
-  </a>
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
 
----
 
 ## 🌟 About Me
 ```python
@@ -29,9 +24,6 @@ class DataScientist:
 me = DataScientist()
 print(me.introduce())
 ```
-## 👩‍💻 About Me
-Hi, I'm [Riyanshi Bohra](https://riyanshibohra.github.io/Riyanshi-Bohra/), someone who is mapping the world through data and finding patterns where others find noise. 🌟
-
 ```python
 def hello_world():
     print("Hello, GitHub!")
@@ -41,7 +33,4 @@ def hello_world():
 </div>
 
 
-![Snake animation](https://github.com/riyanshibohra/riyanshibohra/raw/output/github-contribution-grid-snake-dark.svg)
-
-## 📊 Languages
-![Your Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanshibohra&layout=compact&theme=radical)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
