@@ -58,8 +58,14 @@ me = DataScientist()
 ### 3. [Metropolitan Climate Profiling](https://github.com/riyanshibohra/metropolitan-climate-profiling)  
 **Urban Heat Island Analysis**  
 - Analyzed 300,000+ climatic data points to identify microclimatic hotspots.  
-- Designed Tableau dashboards for urban planners to visualize disparities.  
+- Designed Tableau dashboards for urban planners to visualize disparities.
+  
+## 📫 How to Reach Me  
 
+- 🌐 **Portfolio Website**: [riyanshibohra.github.io](https://riyanshibohra.github.io/Riyanshi-Bohra/)  
+- 💼 **LinkedIn**: [linkedin.com/in/riyanshi-bohra](https://www.linkedin.com/in/riyanshi-bohra/)  
+- ✍️ **Medium**: [@riyanshibohra](https://medium.com/@riyanshibohra)
+  
 ---
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let%27s%20Explore!&height=80&fontAlign=50&fontSize=25)
