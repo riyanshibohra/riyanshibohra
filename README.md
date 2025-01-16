@@ -12,19 +12,21 @@ You are visitor number:
 
 <img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
 
-## 💻 A Little About Me (in Code)
+## 💻 A Little About Me
+
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Riyanshi Bohra"
-        self.skills = ["Data Analysis", "Machine Learning", "Visualization"]
-        self.current_focus = "AI in Healthcare & Geospatial Analysis"
-        self.fun_fact = "I started with cricket stats before diving into ML!"
+        self.skills = ["Predictive Modeling", "Statistical Computing", "Natural Language Processing"]
+        self.current_focus = "Experimenting with Generative AI!"
+        self.fun_fact = "I’m that person who always says, ‘I wonder if we could analyze this,’ about completely random things."
 
     def introduce(self):
-        return f"Hi, I'm {self.name}. I love solving puzzles, especially the data kind!"
+        return f"Hi, I'm {self.name}. Problem-solving with data is my way of making sense of this chaotic world."
         
 me = DataScientist()
+print(me.introduce())
 ```
 
 ## 🛠️ Languages & Tools  
