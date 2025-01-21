@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg)
-Someone who is mapping the world through data and finding patterns where others find noise. 🌟
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg) Someone who is mapping the world through data and finding patterns where others find noise. 🌟
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200">
