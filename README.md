@@ -47,17 +47,23 @@ print(me.introduce())
 </div>
 
 ## 🌟 Featured Projects  
-### 1. [Portfolio+](https://github.com/Portfolio-Simulation/PortfolioPlus)  
+
+### 1. [VideoMind AI](https://github.com/riyanshibohra/video-mind-AI)
+**AI-powered tool that converts YouTube videos into quick summaries using OpenAI Whisper and LangChain**
+- Engineered an AI video processing pipeline using OpenAI Whisper and LangChain, enabling automated transcription and summarization.
+- Implemented vector-based chat functionality with Pinecone DB, allowing contextual Q&A across multiple video sources.
+  
+### 2. [Portfolio+](https://github.com/Portfolio-Simulation/PortfolioPlus)  
 **Virtual Stock Portfolio Management System**  
 - Built a Flask-MySQL backend to process 2M+ daily stock updates.  
 - Analyzed buy/sell activities, enabling real-time performance tracking.  
 
-### 2. [Biometric Predictors of Emotional States](https://github.com/riyanshibohra/Biometric-Predictors-of-Emotional-States)  
+### 3. [Biometric Predictors of Emotional States](https://github.com/riyanshibohra/Biometric-Predictors-of-Emotional-States)  
 **A Deep Learning Approach to Emotional Intelligence**  
 - Applied GPT-2 and BERT to create a database of 50,000+ labeled mood descriptions.  
 - Achieved 93% accuracy using RNN-based classification models.  
 
-### 3. [Metropolitan Climate Profiling](https://github.com/riyanshibohra/metropolitan-climate-profiling)  
+### 4. [Metropolitan Climate Profiling](https://github.com/riyanshibohra/metropolitan-climate-profiling)  
 **Urban Heat Island Analysis**  
 - Analyzed 300,000+ climatic data points to identify microclimatic hotspots.  
 - Designed Tableau dashboards for urban planners to visualize disparities.
