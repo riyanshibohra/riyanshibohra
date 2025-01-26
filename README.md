@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg) 
 
-<div align="center">
+<div>
   Someone who is mapping the world through data and finding patterns where others find noise. 🌟 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle; margin-left: 10px;">
 </div>
