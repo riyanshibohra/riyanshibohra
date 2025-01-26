@@ -1,14 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontSize=40)
 
 <div align="center">
-  <div style="padding: 20px; background: linear-gradient(to right, #ffe29f, #ffa99f); border-radius: 15px; width: 80%; margin: 20px auto; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <p style="font-size: 22px; font-family: 'Arial', sans-serif; font-weight: bold; text-align: center; color: #333;">
-      🌟 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
-    </p>
-  </div>
+  <h1>Hi! I'm <span style="color: #F75C7E;">Riyanshi Bohra</span> 👋</h1>
+  <p style="font-size: 20px; margin-top: -10px;">🌟 Someone who is mapping the world through data and finding patterns where others find noise. 🌟</p>
 </div>
-
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg)
 
 ---
 
