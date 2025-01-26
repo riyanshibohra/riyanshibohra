@@ -4,7 +4,7 @@
 
 <div>
   Someone who is mapping the world through data and finding patterns where others find noise. 🌟 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle; margin-left: 10px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: right; margin-left: 10px;">
 </div>
 
 ---
