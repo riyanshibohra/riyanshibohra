@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=70&fontSize=40)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg) 
 
-<div style="display: flex; justify-content: space-between; align-items: center; font-size: 28px; padding: 10px 20px; width: 100%;">
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 15px 10px; font-size: 26px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
   <span style="flex: 1; text-align: left;">Someone who is mapping the world through data and finding patterns where others find noise. 🌟</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" alt="Waving Hand">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving Hand">
 </div>
 
 ---
