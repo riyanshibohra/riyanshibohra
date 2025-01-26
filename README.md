@@ -1,8 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontSize=40)
 
 <div align="center">
+  
   <!-- Typing effect for "Hi! I'm Riyanshi Bohra 👋" -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
   
   <!-- The quote styled beneath the name -->
   <p style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
@@ -19,6 +20,7 @@ You are visitor number:
 </div>
 
 ---
+
 
 ## 💻 A Little About Me
 
