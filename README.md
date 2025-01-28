@@ -28,7 +28,7 @@ You are visitor number:
 class DataScientist:
     def __init__(self):
         self.name = "Riyanshi Bohra"
-        self.skills = ["Predictive Modeling", "Statistical Computing", "Natural Language Processing"]
+        self.skills = ["Predictive Modeling", "Generative AI", "Natural Language Processing"]
         self.current_focus = "Experimenting with Generative AI!"
         self.fun_fact = "I’m that person who always says, ‘I wonder if we could analyze this,’ about completely random things."
 
