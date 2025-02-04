@@ -80,7 +80,7 @@ print(me.introduce())
   
 ## 📫 How to Reach Me  
 
-- 🌐 **Portfolio Website**: [riyanshibohra.github.io](https://riyanshibohra.github.io/Riyanshi-Bohra/)  
+- 🌐 **Portfolio Website**: [riyanshibohra.github.io](https://www.riyanshibohra.com/)  
 - 💼 **LinkedIn**: [linkedin.com/in/riyanshi-bohra](https://www.linkedin.com/in/riyanshi-bohra/)  
 - ✍️ **Medium**: [@riyanshibohra](https://medium.com/@riyanshibohra)
   
