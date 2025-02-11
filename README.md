@@ -53,6 +53,7 @@ print(me.introduce())
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/-LangChain-0055A5?style=flat&logo=langchain&logoColor=white" />
 
 </div>
 
