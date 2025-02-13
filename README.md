@@ -13,13 +13,22 @@
 
 ---
 
-You are visitor number:  
-
+<!-- Visitor Count -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
+  <p>You are visitor number:</p>
+  <img id="visitor-counter" src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
 </div>
 
----
+<script>
+  const username = "riyanshibohra"; // Your GitHub username
+  const storedUser = localStorage.getItem("visitedBy");
+
+  if (!storedUser || storedUser !== username) {
+    localStorage.setItem("visitedBy", username);
+  } else {
+    document.getElementById("visitor-counter").style.display = "none";
+  }
+</script>
 
 
 ## 💻 A Little About Me
