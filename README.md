@@ -9,7 +9,7 @@
     🌟 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
   </p>
   
-  ![Hostrider - Product Information, Latest Updates, and Reviews 2025 _ Product Hunt](https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd)
+<img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Hostrider" width="400" height="200"/>
  
 </div>
 
