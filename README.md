@@ -8,8 +8,6 @@
   <p style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
     🌟 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
   </p>
-  
-<img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Hostrider" width="400" height="200"/>
  
 </div>
 
@@ -93,6 +91,7 @@ print(me.introduce())
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let%27s%20Explore!&height=80&fontAlign=50&fontSize=25)
 
+<img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Hostrider" width="400" height="200"/>
 ---
 
 
