@@ -1,17 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontSize=40)
 
 <div align="center">
-  
-  ![Hostrider - Product Information, Latest Updates, and Reviews 2025 _ Product Hunt](https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd)
 
-   <!-- The quote styled beneath the name -->
+   <!-- Typing effect for "Hi! I'm Riyanshi Bohra 👋" -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
+<!-- The quote styled beneath the name -->
   <p style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
     🌟 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
   </p>
-
-  <!-- Typing effect for "Hi! I'm Riyanshi Bohra 👋" -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
   
+  ![Hostrider - Product Information, Latest Updates, and Reviews 2025 _ Product Hunt](https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd)
  
 </div>
 
