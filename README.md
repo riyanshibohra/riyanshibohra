@@ -4,13 +4,15 @@
   
   ![Hostrider - Product Information, Latest Updates, and Reviews 2025 _ Product Hunt](https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd)
 
-  <!-- Typing effect for "Hi! I'm Riyanshi Bohra 👋" -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
-  
-  <!-- The quote styled beneath the name -->
+   <!-- The quote styled beneath the name -->
   <p style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
     🌟 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
   </p>
+
+  <!-- Typing effect for "Hi! I'm Riyanshi Bohra 👋" -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
+  
+ 
 </div>
 
 ---
