@@ -32,10 +32,10 @@ class DataScientist:
         self.name = "Riyanshi Bohra"
         self.skills = ["Predictive Modeling", "Generative AI", "Natural Language Processing"]
         self.current_focus = "Experimenting with Generative AI!"
-        self.fun_fact = "I’m that person who always says, ‘I wonder if we could analyze this,’ about completely random things."
+        self.fun_fact = "I turn random thoughts into data problems. If I could, I’d build a machine learning model to predict my own bad decisions."
 
     def introduce(self):
-        return f"Hi, I'm {self.name}. Problem-solving with data is my way of making sense of this chaotic world."
+           
         
 me = DataScientist()
 print(me.introduce())
