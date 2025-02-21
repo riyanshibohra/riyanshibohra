@@ -31,7 +31,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Riyanshi Bohra"
         self.skills = ["Predictive Modeling", "Generative AI", "Natural Language Processing"]
-        self.current_focus = "Experimenting with Generative AI!"
+        self.current_focus = "Convincing Generative AI to make sense!"
         self.fun_fact = "I turn random thoughts into data problems. If I could, I’d build a machine learning model to predict my own bad decisions."
         return f"Hey, I'm {self.name}. Data science is my way of making sense of the world, and as a certified nerd, I think nothing is more fun than finding patterns in chaos 
         (except maybe a perfectly formatted dataset)." 
