@@ -66,7 +66,7 @@ print(me.introduce())
 
 ### 1. [VideoMind AI](https://github.com/riyanshibohra/video-mind-AI)
 **AI-powered tool that converts YouTube videos into quick summaries using OpenAI Whisper and LangChain**
-- Engineered an AI video processing pipeline using OpenAI Whisper and LangChain, enabling automated transcription and summarization.
+- Developed an AI video processing pipeline using OpenAI Whisper and LangChain, enabling automated transcription and summarization.
 - Implemented vector-based chat functionality with Pinecone DB, allowing contextual Q&A across multiple video sources.
   
 ### 2. [Portfolio+](https://github.com/Portfolio-Simulation/PortfolioPlus)  
