@@ -59,6 +59,7 @@ print(me.introduce())
 <img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/-LangChain-0055A5?style=flat&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-LangGraph-01C5C4?style=flat&logo=langchain&logoColor=white" />
 
 </div>
 
