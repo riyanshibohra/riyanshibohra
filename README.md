@@ -65,6 +65,11 @@ print(me.introduce())
 
 ## 🌟 Featured Projects  
 
+### 1. [DataLens](https://github.com/riyanshibohra/DataLens)
+**Turn your words into stunning data visuals, effortlessly!**
+- Built a LangGraph-powered multi-agent AI workflow for automated research and data visualization using OpenAI, Tavily, and LangChain.
+- Converted natural language queries into dynamic, data-driven charts using an agentic AI workflow
+  
 ### 1. [VideoMind AI](https://github.com/riyanshibohra/video-mind-AI)
 **AI-powered tool that converts YouTube videos into quick summaries using OpenAI Whisper and LangChain**
 - Developed an AI video processing pipeline using OpenAI Whisper and LangChain, enabling automated transcription and summarization.
