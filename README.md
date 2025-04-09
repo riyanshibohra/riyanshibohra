@@ -33,7 +33,6 @@ class DataScientist:
         self.skills = ["Predictive Modeling", "Generative AI", "Natural Language Processing"]
         self.current_focus = "Convincing Generative AI to make sense!"
         self.fun_fact = "I turn random thoughts into data problems. If I could, I’d build a machine learning model to predict my own bad decisions."
-        return f"Hey, I'm {self.name}. A self-proclaimed nerd who finds patterns in chaos—and joy in a perfectly formatted dataset."
 
     def introduce(self):
            
