@@ -35,7 +35,7 @@ class DataScientist:
         self.fun_fact = "I turn random thoughts into data problems. If I could, I’d build a machine learning model to predict my own bad decisions."
 
     def introduce(self):
-        return f"Hey, I'm {self.name}. A self-proclaimed nerd who finds patterns in chaos—and joy in a perfectly formatted dataset."
+        return f"Hey, I'm {self.name}. A self-proclaimed nerd who finds patterns in chaos, and joy in a perfectly formatted dataset."
         
 me = DataScientist()
 print(me.introduce())
