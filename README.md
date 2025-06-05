@@ -89,7 +89,7 @@ print(me.introduce())
 - 🌐 **Portfolio Website**: [riyanshibohra.com](https://www.riyanshibohra.com/)  
 - 💼 **LinkedIn**: [linkedin.com/in/riyanshi-bohra](https://www.linkedin.com/in/riyanshi-bohra/)  
 - ✍️ **Medium**: [@riyanshibohra](https://medium.com/@riyanshibohra)
-- ✉️ **Email**: riyanshibohraa@gmail.com | 
+- ✉️ **Email**: riyanshibohraa@gmail.com |
 ---
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Let%27s%20Explore!&height=80&fontAlign=50&fontSize=25)
