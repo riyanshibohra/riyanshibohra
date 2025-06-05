@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
 <!-- The quote styled beneath the name -->
   <p style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
-    🌟 Someone who is mapping the world through data and finding patterns where others find noise. 🌟
+    🌟 Someone who is mapping the world through data and finding patterns where others find noise 🌟
   </p>
  
 </div>
