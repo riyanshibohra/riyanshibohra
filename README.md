@@ -10,11 +10,11 @@
   </p>
  
 </div>
----
+
 <div align="center">
    <img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Hostrider" width="400" height="200"/>
 </div>
----
+
 ## 💻 A Little About Me
 
 ```python
