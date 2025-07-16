@@ -10,15 +10,6 @@
   </p>
  
 </div>
-
----
-
-You are visitor number:  
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/riyanshibohra/count.svg" alt="Visitor Count" />
-</div>
-
 ---
 <div align="center">
    <img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Hostrider" width="400" height="200"/>
