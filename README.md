@@ -53,28 +53,6 @@ print(me.introduce())
 
 </div>
 
-## 🌟 Featured Projects  
-
-### 1. [DataLens](https://github.com/riyanshibohra/DataLens)
-**Turn your words into stunning data visuals, effortlessly!**
-- Built a multi-agent AI workflow using LangGraph for automated research and visualization using tools like OpenAI, Tavily, and BeautifulSoup.
-- Converted natural language queries into dynamic, data-driven charts using an agentic AI workflow.
-  
-### 2. [VideoMind AI](https://github.com/riyanshibohra/video-mind-AI)
-**AI-powered tool that converts YouTube videos into quick summaries using OpenAI Whisper and LangChain**
-- Developed an AI video processing pipeline using OpenAI Whisper and LangChain, enabling automated transcription and summarization.
-- Implemented vector-based chat functionality with Pinecone DB, allowing contextual Q&A across multiple video sources.
-  
-### 3. [Portfolio+](https://github.com/Portfolio-Simulation/PortfolioPlus)  
-**Virtual Stock Portfolio Management System**  
-- Built a Flask-MySQL backend to process 2M+ daily stock updates.  
-- Analyzed buy/sell activities, enabling real-time performance tracking.  
-
-### 4. [Biometric Predictors of Emotional States](https://github.com/riyanshibohra/Biometric-Predictors-of-Emotional-States)  
-**A Deep Learning Approach to Emotional Intelligence**  
-- Applied GPT-2 and BERT to create a database of 50,000+ labeled mood descriptions.  
-- Achieved 93% accuracy using RNN-based classification models.  
-  
 ## 📫 How to Reach Me  
 
 - 🌐 **Portfolio Website**: [riyanshibohra.com](https://www.riyanshibohra.com/)  
