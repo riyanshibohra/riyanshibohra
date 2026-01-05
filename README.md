@@ -22,28 +22,12 @@ No-code fine-tuning • Free GPU training • Production-ready in <15 min • Su
 **Protexo** - Multilingual scam detection with MobileBERT (0.7s inference on Android)  
 **UGenome AI** - Genomics pipelines processing 50-60GB/week (FastAPI, AWS, HIPAA-compliant)
 
-## 🛠️ Current Stack
-
-**Fine-tuning & Edge ML**  
-Unsloth • MobileBERT • Gemini Nano • LoRA/QLoRA • GGUF • TensorFlow Lite
-
-**Production ML**  
-PyTorch • HuggingFace Transformers • LangChain • LangGraph • FastAPI • Docker
-
-**Infrastructure**  
-AWS S3 • Azure SQL • GitHub Actions • Colab • ONNX Runtime
-
-**Languages**  
-Python • SQL • R • JavaScript/TypeScript
-
 ## 📊 Recent Wins
 
 - 🎯 **[tunekit.app](https://tunekit.app)** live - Fine-tune SLMs in <15 min with Unsloth
 - ⭐ **7 stars** on Overtab (Google Chrome Built-in AI Challenge 2025)
 - 📥 **>50 downloads** on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)
 - 💰 **$625K funding** secured from public health research
-- ⚡ **350 hrs/week** automated through ETL pipelines
-- 📈 **800M records** processed (15 years of public health data)
 - 🔬 **2 publications** in Springer journals
 
 ## 🎓 Background
