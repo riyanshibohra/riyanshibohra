@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontSize=40)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi!+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
   
   <p style="font-size: 18px; color: #555; margin-top: 10px;">
-    Data Scientist building production ML systems
+    Building <a href="https://tunekit.app">tunekit.app</a> • Fine-tuning SLMs with Unsloth • Shipping on-device AI
   </p>
 </div>
 
@@ -14,22 +14,47 @@
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Shipping
 
-**Protexo** - On-device scam detection with MobileBERT (multilingual, 0.7s inference on Android)  
-**UGenome AI** - Genomics data pipelines with FastAPI (50-60GB/week, HIPAA-compliant)
+**[TuneKit](https://tunekit.app)** - SaaS platform for fine-tuning SLMs 2x faster with Unsloth  
+No-code fine-tuning • Free GPU training • Production-ready in <15 min • Supports Llama, Phi, Mistral, Gemma
 
-## 📊 Recent Impact
+**Protexo** - Multilingual scam detection with MobileBERT (0.7s inference on Android)  
+**UGenome AI** - Genomics pipelines processing 50-60GB/week (FastAPI, AWS, HIPAA-compliant)
 
-- 💰 Research cited in **$625K funding** (public health disparities)
-- ⚡ Automated **350 hours/week** (ETL pipelines at PwC)
-- 📈 Processed **800M records** (15 years of public health data)
+## 🛠️ Current Stack
+
+**Fine-tuning & Edge ML**  
+Unsloth • MobileBERT • Gemini Nano • LoRA/QLoRA • GGUF • TensorFlow Lite
+
+**Production ML**  
+PyTorch • HuggingFace Transformers • LangChain • LangGraph • FastAPI • Docker
+
+**Infrastructure**  
+AWS S3 • Azure SQL • GitHub Actions • Colab • ONNX Runtime
+
+**Languages**  
+Python • SQL • R • JavaScript/TypeScript
+
+## 📊 Recent Wins
+
+- 🎯 **[tunekit.app](https://tunekit.app)** live - Fine-tune SLMs in <15 min with Unsloth
+- ⭐ **7 stars** on Overtab (Google Chrome Built-in AI Challenge 2025)
+- 📥 **>50 downloads** on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)
+- 💰 **$625K funding** secured from public health research
+- ⚡ **350 hrs/week** automated through ETL pipelines
+- 📈 **800M records** processed (15 years of public health data)
 - 🔬 **2 publications** in Springer journals
-- 🤖 **>50 downloads** on HuggingFace (multilingual NER model)
 
-## 🛠️ Tech Stack
+## 🎓 Background
+
+**MS Data Science** @ University of Arizona (3.78 GPA)  
+**B.Tech IT** @ Manipal University (3.72 GPA)  
+Published Researcher • 11 Certifications • 2,188+ contributions
 
 <div align="center">
+
+## 🛠️ Technologies
 
 **ML & AI**  
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
@@ -37,7 +62,7 @@
 <img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/-LangChain-0055A5?style=flat&logo=langchain&logoColor=white" />
 
-**Production**  
+**Production & Cloud**  
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
@@ -51,14 +76,10 @@
 
 </div>
 
-## 🎓 Background
-
-**MS Data Science** @ University of Arizona (3.78 GPA) • **B.Tech IT** @ Manipal (3.72 GPA)  
-Published Researcher • 11 Professional Certifications • 2,188 contributions in the last year
-
-## 📫 Connect With Me
+## 📫 Connect
 
 - 🌐 Portfolio: [riyanshibohra.com](https://www.riyanshibohra.com/)
+- 🚀 Product: [tunekit.app](https://tunekit.app)
 - 💼 LinkedIn: [linkedin.com/in/riyanshi-bohra](https://www.linkedin.com/in/riyanshi-bohra/)
 - ✍️ Medium: [@riyanshibohra](https://medium.com/@riyanshibohra)
 - ✉️ Email: riyanshibohraa@gmail.com
