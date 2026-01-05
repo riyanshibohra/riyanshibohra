@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 What I'm Shipping
+## What I'm Shipping:
 
 **[TuneKit](https://tunekit.app)** - SaaS platform for fine-tuning SLMs 2x faster with Unsloth  
 No-code fine-tuning • Free GPU training • Production-ready in <15 min • Supports Llama, Phi, Mistral, Gemma
@@ -22,15 +22,15 @@ No-code fine-tuning • Free GPU training • Production-ready in <15 min • Su
 **Protexo** - Multilingual scam detection with MobileBERT (0.7s inference on Android)  
 **UGenome AI** - Genomics pipelines processing 50-60GB/week (FastAPI, AWS, HIPAA-compliant)
 
-## 📊 Recent Wins
+## Recent Wins:
 
-- 🎯 **[tunekit.app](https://tunekit.app)** live - Fine-tune SLMs in <15 min
-- ⭐ **7 stars** on Overtab (Google Chrome Built-in AI Challenge 2025)
-- 📥 **~120 downloads** on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)
-- 💰 **$625K funding** secured from public health research
-- 🔬 **2 publications** in Springer journals
+- **[tunekit.app](https://tunekit.app)** live - Fine-tune SLMs in <15 min
+- **7 stars** on Overtab (Google Chrome Built-in AI Challenge 2025)
+- **~120 downloads** on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)
+- **2 publications** in Springer journals
+- **$625K funding** secured from public health research
 
-## 🎓 Background
+## Background:
 
 **MS Data Science** @ University of Arizona (3.78 GPA)  
 **B.Tech IT** @ Manipal University (3.72 GPA)  
@@ -38,7 +38,7 @@ Published Researcher • 11 Certifications • 2,188+ contributions
 
 <div align="center">
 
-## 🛠️ Technologies
+## Technologies:
 
 **ML & AI**  
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
@@ -60,10 +60,9 @@ Published Researcher • 11 Certifications • 2,188+ contributions
 
 </div>
 
-## 📫 Connect
+## Connect!
 
 - 🌐 Portfolio: [riyanshibohra.com](https://www.riyanshibohra.com/)
-- 🚀 Product: [tunekit.app](https://tunekit.app)
 - 💼 LinkedIn: [linkedin.com/in/riyanshi-bohra](https://www.linkedin.com/in/riyanshi-bohra/)
 - ✍️ Medium: [@riyanshibohra](https://medium.com/@riyanshibohra)
 - ✉️ Email: riyanshibohraa@gmail.com
