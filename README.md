@@ -36,30 +36,6 @@ No-code fine-tuning • Free GPU training • Production-ready in <15 min • Su
 **B.Tech IT** @ Manipal University (3.72 GPA)  
 Published Researcher • 11 Certifications • 2,188+ contributions
 
-<div align="center">
-
-## Technologies:
-
-**ML & AI**  
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-HuggingFace-FFD000?style=flat&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/-LangChain-0055A5?style=flat&logo=langchain&logoColor=white" />
-
-**Production & Cloud**  
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-
-**Languages**  
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
-</div>
-
 ## Connect!
 
 - 🌐 Portfolio: [riyanshibohra.com](https://www.riyanshibohra.com/)
