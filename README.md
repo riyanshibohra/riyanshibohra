@@ -25,7 +25,7 @@ No-code fine-tuning • Free GPU training • Production-ready in <15 min • Su
 ## Recent Wins:
 
 - **[tunekit.app](https://tunekit.app)** live: Fine-tune SLMs in <15 min | **#19 Trending on Product Hunt (Day of Launch)**
-- **7 stars** on Overtab (Google Chrome Built-in AI Challenge 2025)
+- **8 stars** on [Overtab](https://github.com/riyanshibohra/Overtab) (Google Chrome Built-in AI Challenge 2025)
 - **~120 downloads** on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)
 - **2 publications** in Springer journals
 - **$625K funding** secured from public health research
