@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
   
   <p style="font-size: 18px; color: #555; margin-top: 10px;">
-    Building <a href="https://tunekit.app">tunekit.app</a> • Fine-tuning SLMs with Unsloth • Shipping on-device AI
+    Building <a href="https://onsetlab.app">onsetlab.app</a> & <a href="https://tunekit.app">tunekit.app</a> • Training models and shipping agents • End-to-end AI systems
   </p>
 </div>
 
@@ -16,6 +16,9 @@
 
 ## What I'm Shipping:
 
+**[OnsetLab](https://onsetlab.app)** - Local-first agent framework to run tool-calling SLMs on your machine  
+MCP integrations • Export agents as Python or Docker • Run via OpenRouter or local runtimes
+
 **[TuneKit](https://tunekit.app)** - SaaS platform for fine-tuning SLMs 2x faster with Unsloth  
 No-code fine-tuning • Free GPU training • Production-ready in <15 min • Supports Llama, Phi, Mistral, Gemma
 
@@ -24,7 +27,8 @@ No-code fine-tuning • Free GPU training • Production-ready in <15 min • Su
 
 ## Recent Wins:
 
-- **[tunekit.app](https://tunekit.app)** live: Fine-tune SLMs in <15 min | **#19 Trending on Product Hunt (Day of Launch)**
+- **[onsetlab.app](https://onsetlab.app)** live: Local tool-calling agents + playground launched
+- **[tunekit.app](https://tunekit.app)** went viral: Fine-tune SLMs in <15 min | **120+ stars on GitHub** | **#19 Trending on Product Hunt (Day of Launch)**
 - **8 stars** on [Overtab](https://github.com/riyanshibohra/Overtab) (Google Chrome Built-in AI Challenge 2025)
 - **~120 downloads** on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)
 - **2 publications** in Springer journals
