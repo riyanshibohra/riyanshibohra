@@ -1,52 +1,74 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontSize=40)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Riyanshi+Bohra+!+👋" alt="Typing SVG" />
-  
-  <p style="font-size: 18px; color: #555; margin-top: 10px;">
-    Building <a href="https://onsetlab.app">onsetlab.app</a> & <a href="https://tunekit.app">tunekit.app</a> • Training models and shipping agents • End-to-end AI systems
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Data Scientist" width="400" height="200"/>
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=a%20little%20corner%20of%20the%20internet%20for%20my%20work&fontSize=22&fontAlign=50&fontAlignY=38&fontColor=f0e6ff&color=0:13001e,50:3b0764,100:7e22ce)
+<table>
+  <tr>
+    <td width="54%" valign="middle">
+      <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="woman coding" />
+    </td>
+    <td width="46%" valign="middle">
+      <h2>hi, i'm riyanshi!</h2>
+<p>
+  <strong>data scientist & ai engineer.</strong><br />
+  i've shipped tools people actually used.<br />
+  trained models, shipped agents, and worked across end-to-end ai systems.
+</p>
+      <p>
+  <img src="https://img.shields.io/badge/shipped-TuneKit%20%E2%80%A2%20120%2B%20stars-f472b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/built-OnsetLab%20%E2%80%A2%20local%20agents-818cf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/published-2%20Springer%20Nature%20papers-22c55e?style=flat-square" />
+</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## What I'm Shipping:
+---
 
-**[OnsetLab](https://onsetlab.app)** - Local-first agent framework to run tool-calling SLMs on your machine  
+### what i've built
+
+**[OnsetLab](https://onsetlab.app)** — Local-first agent framework to run tool-calling SLMs on your machine  
 MCP integrations • Export agents as Python or Docker • Run via OpenRouter or local runtimes
 
-**[TuneKit](https://tunekit.app)** - SaaS platform for fine-tuning SLMs 2x faster with Unsloth  
+**[TuneKit](https://tunekit.app)** — SaaS platform for fine-tuning SLMs 2x faster with Unsloth  
 No-code fine-tuning • Free GPU training • Production-ready in <15 min • Supports Llama, Phi, Mistral, Gemma
 
-**Protexo** - Multilingual scam detection with MobileBERT (0.7s inference on Android)  
-**UGenome AI** - Genomics pipelines processing 50-60GB/week (FastAPI, AWS, HIPAA-compliant)
-
-## Recent Wins:
-
-- **[onsetlab.app](https://onsetlab.app)** live: Local tool-calling agents + playground launched
-- **[tunekit.app](https://tunekit.app)** went viral: Fine-tune SLMs in <15 min | **120+ stars on GitHub** | **#19 Trending on Product Hunt (Day of Launch)**
-- **8 stars** on [Overtab](https://github.com/riyanshibohra/Overtab) (Google Chrome Built-in AI Challenge 2025)
-- **~120 downloads** on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)
-- **2 publications** in Springer journals
-- **$625K funding** secured from public health research
-
-## Background:
-
-**MS Data Science** @ University of Arizona (3.78 GPA)  
-**B.Tech IT** @ Manipal University (3.72 GPA)  
-Published Researcher • 11 Certifications • 2,188+ contributions
-
-## Connect!
-
-- 🌐 Portfolio: [riyanshibohra.com](https://www.riyanshibohra.com/)
-- 💼 LinkedIn: [linkedin.com/in/riyanshi-bohra](https://www.linkedin.com/in/riyanshi-bohra/)
-- ✍️ Medium: [@riyanshibohra](https://medium.com/@riyanshibohra)
-- ✉️ Email: riyanshibohraa@gmail.com
+**Protexo** — Multilingual scam detection with MobileBERT (0.7s inference on Android)  
+**UGenome AI** — Genomics pipelines processing 50-60GB/week (FastAPI, AWS, HIPAA-compliant)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+### recent wins
+
+- 🚀 [tunekit.app](https://tunekit.app) went viral — **120+ GitHub stars** · **#19 Trending on Product Hunt**
+- 🛠 [onsetlab.app](https://onsetlab.app) live — local tool-calling agents + playground launched
+- 🏆 8 stars on [Overtab](https://github.com/riyanshi-bohra) — Google Chrome Built-in AI Challenge 2025
+- 📦 ~120 downloads on multilingual NER model
+- 📄 2 publications in Springer Nature journals
+- 💰 $625K in public health funding influenced by urban heat equity research
+
+---
+
+### stack
+
+`python` `sql` `pytorch` `langgraph` `docker` `postgres`  
+predictive modeling · rag pipelines · llm fine-tuning · on-device inference · agentic systems
+
+---
+
+### background
+
+MS Data Science @ University of Arizona  
+B.Tech IT @ Manipal University Jaipur  
+Published Researcher · 11 Certifications · 2,188+ contributions
+
+---
+
+### find me
+
+🌐 [riyanshibohra.com](https://riyanshibohra.com) · 💼 [linkedin](https://linkedin.com/in/riyanshi-bohra) · ✍️ [medium](https://medium.com/@riyanshibohra) · 📬 riyanshibohraa@gmail.com
+
+---
+
+<div align="center">
+  <sub>still curious. still building. still going.</sub>
+</div>
