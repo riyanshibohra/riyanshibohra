@@ -6,19 +6,19 @@
       <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="woman coding" />
     </td>
 <td width="46%" valign="middle" style="padding-left: 24px;">
-  <h2>hi, i'm riyanshi.</h2>
+  <h2>hi, i'm riyanshi!</h2>
   <p>
     <strong>trained as a data scientist, building like an ai engineer.</strong>
   </p>
   <p>
-    some of my work has gone viral. some of it has been published. 
-    all of it has made me better at building things that last.
+    some of my work has gone viral. some of it has been published.  <br>
+    <strong>all of it has made me better at building things that last.</strong></br>
   </p>
 <p>
   <img src="https://img.shields.io/badge/open%20source-shipped%20end--to--end%20ai%20tools-8b5cf6?style=flat-square&labelColor=5f5f66" />
   <img src="https://img.shields.io/badge/research-2%20springer%20publications-7dd3fc?style=flat-square&labelColor=5f5f66" />
   <img src="https://img.shields.io/badge/ai%20systems-models%20%2B%20agents%20%2B%20pipelines-3b82f6?style=flat-square&labelColor=5f5f66" />
-<img src="https://img.shields.io/badge/focus-practical%20ai%20tools-c084fc?style=flat-square&labelColor=5f5f66" /></p>
+</p>
 </td>
   </tr>
 </table>
@@ -40,12 +40,12 @@ No-code fine-tuning • Free GPU training • Production-ready in <15 min • Su
 
 ### recent wins
 
-- 🚀 [tunekit.app](https://tunekit.app) went viral - **140+ GitHub stars** · **#19 Trending on Product Hunt**
-- 🛠 [onsetlab.app](https://onsetlab.app) live - local tool-calling agents + playground launched
-- 🏆 Built [Overtab](https://github.com/riyanshi-bohra) - Google Chrome Built-in AI Challenge 2025
-- 📦 ~129 downloads on multilingual NER model
-- 📄 2 publications in Springer Nature journals
-- 💰 $625K in public health funding influenced by urban heat equity research
+- <img src="https://cdn.simpleicons.org/github/181717" width="14" /> [tunekit.app](https://tunekit.app) went viral, 140+ GitHub stars  
+- <img src="https://cdn.simpleicons.org/pypi/3775A9" width="14" /> [onsetlab.app](https://onsetlab.app) live, local tool-calling agents  
+- <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="14" /> Built [Overtab](https://github.com/riyanshi-bohra) for the Google Chrome Built-in AI Challenge  
+- <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="14" /> ~129 downloads on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)  
+- <img src="https://cdn.simpleicons.org/spring/6DB33F" width="14" /> 2 publications in Springer Nature journals  
+- <img src="https://cdn.simpleicons.org/openaccess/F68212" width="14" /> $625K in public health funding influenced by urban heat equity research 
 
 ---
 
@@ -56,12 +56,27 @@ B.Tech IT @ Manipal University Jaipur
 
 ---
 
-### find me
+### around the internet
 
-🌐 [riyanshibohra.com](https://riyanshibohra.com) · 💼 [linkedin](https://linkedin.com/in/riyanshi-bohra) · ✍️ [medium](https://medium.com/@riyanshibohra) · 📬 riyanshibohraa@gmail.com
+<table>
+  <tr>
+    <td><strong>website</strong></td>
+    <td><a href="https://riyanshibohra.com">riyanshibohra.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>linkedin</strong></td>
+    <td><a href="https://www.linkedin.com/in/riyanshi-bohra">linkedin.com/in/riyanshi-bohra</a></td>
+  </tr>
+  <tr>
+    <td><strong>medium</strong></td>
+    <td><a href="https://medium.com/@riyanshibohra">@riyanshibohra</a></td>
+  </tr>
+  <tr>
+    <td><strong>email</strong></td>
+    <td><a href="mailto:riyanshibohraa@gmail.com">riyanshibohraa@gmail.com</a></td>
+  </tr>
+</table>
 
----
+<p align="center"><strong>still curious. still making things.</strong></p>
 
-<div align="center">
-  <sub>still curious. still building. still going.</sub>
-</div>
+<p align="center">still curious. still building. still going.</p>
