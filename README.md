@@ -77,4 +77,4 @@ B.Tech IT @ Manipal University Jaipur
   </tr>
 </table>
 
-<p align="center"><strong>still curious. still making things.</strong></p>
+<p align="center"><strong>still curious. still building. still learning.</strong></p>
