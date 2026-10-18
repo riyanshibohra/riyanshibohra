@@ -43,7 +43,7 @@ No-code fine-tuning • Free GPU training • Production-ready in <15 min • Su
 - <img src="https://cdn.simpleicons.org/github/181717" width="14" /> [tunekit.app](https://tunekit.app) went viral, 150+ GitHub stars  
 - <img src="https://cdn.simpleicons.org/pypi/3775A9" width="14" /> [onsetlab.app](https://onsetlab.app) live, local tool-calling agents  
 - <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="14" /> Built [Overtab](https://github.com/riyanshi-bohra) for the Google Chrome Built-in AI Challenge  
-- <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="14" /> ~129 downloads on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)  
+- <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="14" /> ~170+ downloads on [multilingual NER model](https://huggingface.co/bohrariyanshi/pii-ner-extraction)  
 - <img src="https://cdn.simpleicons.org/spring/6DB33F" width="14" /> 2 publications in Springer Nature journals  
 - <img src="https://cdn.simpleicons.org/openaccess/F68212" width="14" /> $625K in public health funding influenced by urban heat equity research 
 
